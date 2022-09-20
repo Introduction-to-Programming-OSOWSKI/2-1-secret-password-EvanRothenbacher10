@@ -5,4 +5,4 @@ def password(p):
     else:
         return "ACCESS DENIED"
 
-print(password(input("What is the password?: \n")))
+print(password("Knights19"))
